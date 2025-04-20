@@ -1,10 +1,10 @@
 sql query:
 
 -- Create the database
-CREATE DATABASE ems;
+CREATE DATABASE employee_management_system;
 
 -- Use the newly created database
-USE ems;
+USE employee_management_system;
 
 -- Create users table
 CREATE TABLE users (
